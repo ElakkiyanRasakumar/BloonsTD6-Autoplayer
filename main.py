@@ -2,6 +2,7 @@ import pyautogui as pyauto
 import time
 import cv2 as cv
 
+
 start_time = time.time()
 
 time.sleep(1)
